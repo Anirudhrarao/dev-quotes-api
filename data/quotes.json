@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "tag": "code"
+  },
+  {
+    "id": 2,
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "tag": "wisdom"
+  },
+  {
+    "id": 3,
+    "text": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries",
+    "tag": "funny"
+  }
+]
